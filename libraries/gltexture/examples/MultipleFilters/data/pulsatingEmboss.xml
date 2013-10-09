@@ -1,0 +1,8 @@
+<filter name="pulsating emboss">
+    <description>Dynamic emboss convolution filter with pulsating vertex grid</description>
+    <vertex>PulseGrid.glsl</vertex>
+    <fragment>DynEmboss.glsl</fragment>
+    <grid>
+        <resolution nx="10" ny="10"></resolution>
+   </grid>
+</filter>

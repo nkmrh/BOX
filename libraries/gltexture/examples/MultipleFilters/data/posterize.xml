@@ -1,0 +1,4 @@
+<filter name="posterize">
+    <description>Posterize filter</description>
+    <fragment>Posterize.glsl</fragment>
+</filter>

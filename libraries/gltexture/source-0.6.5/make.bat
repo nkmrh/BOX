@@ -1,0 +1,3 @@
+"C:\Program Files\Java\jdk1.6.0_03\bin\javac.exe" -source 1.3 -target 1.1 -classpath "C:\Program Files\processing\processing-0135\lib\core.jar;C:\Program Files\Processing\processing-0135\libraries\opengl\library\opengl.jar;C:\Program Files\Processing\processing-0135\libraries\opengl\library\jogl.jar;C:\Program Files\Processing\processing-0135\libraries\xml\library\xml.jar" -d . *.java
+
+"C:\Program Files\Java\jdk1.6.0_03\bin\jar.exe" -cf gltexture.jar codeanticode

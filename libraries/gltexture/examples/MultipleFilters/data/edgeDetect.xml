@@ -1,0 +1,4 @@
+<filter name="edge detection">
+    <description>Edge detection convolution filter</description>
+    <fragment>Edges.glsl</fragment>
+</filter>
